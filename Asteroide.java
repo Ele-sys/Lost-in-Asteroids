@@ -9,5 +9,6 @@ public class Asteroide {
         System.out.print("è una prova per usare gitHub desktop");
         System.out.println("modifico il file");
         System.out.println("ciaooo");
+        System.out.println("ehi");
     }
 }
